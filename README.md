@@ -1,6 +1,6 @@
 ### Wow, hi there!! 👋
 
-Welcome to my Github profile. I'm Pedro Henrique, PH or just Pedro :grinning:, an *FPGA Design Engineer* at [Pi-Tecnologia](www.pitec.co), living in Campinas(SP), Brazil.
+Welcome to my Github profile. I'm Pedro Henrique, PH or just Pedro :grinning:, an *FPGA Design Engineer* at [Pi-Tecnologia](https://www.pitec.co), living in Campinas(SP), Brazil.
 - 🔭 I’m currently working on development of PIMEGA X-Ray Detectors and systems for scientific research.
 - 
 
