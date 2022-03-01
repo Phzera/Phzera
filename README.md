@@ -1,7 +1,7 @@
 # Wow, hi there!! 👋
 
 ## About me
-Welcome to my Github profile. I'm Pedro Henrique, PH or just Pedro :grinning:, an *FPGA Design Engineer* at [Pitec](https://www.pitec.co), living in _Campinas(SP), Brazil_.
+Welcome to my Github profile. I'm ###Pedro Henrique###, PH or just Pedro :grinning:, an **FPGA Design Engineer** at [Pitec](https://www.pitec.co), living in _Campinas(SP), Brazil_.
 - 🔭 I’m currently working on development of **PIMEGA X-Ray Detectors**  and systems for scientific research.
 - 👯 I’m looking to collaborate on **open source FPGA** projects. If you are currently looking for collaborators for your GH repository, don't hesitate to contact me.
 - 🌱 I’m currently learning **Zynq** and *SoC design flows*
