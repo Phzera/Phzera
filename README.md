@@ -12,8 +12,7 @@ Welcome to my Github profile. I'm **Pedro Henrique**, PH or just Pedro :grinning
 - I love watching movies: thriller, horror, dramas and sci-fi are my favorite genres;
 - I am Xbox player: Call me to play Dead by Daylight, I'm sure we can have fun together scaping from those villains
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phzera&show_icons=true&theme=radical)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phzera)](https://github.com/Phzeera/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phzera&show_icons=true&theme=dark)
 <!--
 **Phzera/Phzera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
