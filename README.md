@@ -2,8 +2,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Phzera.Phzera&left_color=green&right_color=red)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Phzera&show_icons=true&theme=merko&hide=contribs)
-
 ## About me
 - 😄 Pronouns: He/Him
 
